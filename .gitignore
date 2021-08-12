@@ -1,0 +1,5 @@
+# ipython extras
+.ipynb_checkpoints/
+
+# pycharm
+.idea/
